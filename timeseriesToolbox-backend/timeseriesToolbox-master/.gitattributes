@@ -1,0 +1,6 @@
+frontend filter=lfs diff=lfs merge=lfs -text
+xgboost filter=lfs diff=lfs merge=lfs -text
+tensorflow filter=lfs diff=lfs merge=lfs -text
+qwdlkxzcl filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.pyd filter=lfs diff=lfs merge=lfs -text

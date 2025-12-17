@@ -1,0 +1,18 @@
+# Python venv klasörü
+venv/
+
+# __pycache__ klasörleri
+__pycache__/
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Çıktı, log ve geçici dosyalar
+*.log
+*.tmp
+*.pyc
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
